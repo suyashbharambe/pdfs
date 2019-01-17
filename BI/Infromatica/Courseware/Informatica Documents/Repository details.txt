@@ -1,0 +1,18 @@
+
+Domain: Domain_NDAInforma
+Host: NDAInforma
+Port: 6005
+
+Native
+
+
+Repository name: BI25OCTPUNEREPO
+INTEGRATION SERVICE NAME: BI25OCTPUNEINT
+
+User ID: TRG1-TRG20
+Passwords: TRG1-TRG20
+
+
+For Shared files required for lab purpose, location on server is as given here:
+
+\\ndainforma\SrcFiles
